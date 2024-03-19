@@ -10,8 +10,6 @@ import { InputText } from 'primereact/inputtext';
 import 'primereact/resources/primereact.min.css';
 import 'primereact/resources/themes/lara-light-indigo/theme.css';
 import 'primeicons/primeicons.css';
-import 'jspdf';
-import 'jspdf-autotable';
 import { Dropdown } from 'primereact/dropdown';
 import axios from 'axios';
 
